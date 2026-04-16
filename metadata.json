@@ -1,0 +1,5 @@
+{
+  "name": "Vida Mediterránea AI",
+  "description": "Asistente experto en salud integral basado en la Dieta Mediterránea, con menús personalizados, test de adherencia y consejos de bienestar.",
+  "requestFramePermissions": ["microphone"]
+}
